@@ -1,5 +1,5 @@
 # Brick-Breaker-Game
-This game Brick Breaker is a small Minor Project done using Java-swing ans Java-awt.
+This game Brick Breaker is a small Minor Project done using Java-swing and Java-awt.
 
 **What is Brick Breaker Game in Java?**
 
